@@ -1,0 +1,46 @@
+.all_file {
+    font-family: sans-serif;
+}
+
+.color_white {
+    color: #FFFFFFE6;
+}
+
+.epee {
+    margin-left: 50px;
+    margin-top: 45px;
+}
+
+.epee_bf {
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.epee_stat {
+    font-size: 20px;
+    color: #FFFFFFE6;
+    margin-top: 65px;
+    margin-left: 55px;
+    position: absolute;
+}
+
+.epee_block {
+    background-color: #102531;
+    border: solid 5px #FFFFFFE6;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 400px;
+    height: 150px;
+}
+
+.block_deathblade {
+    color: #FFFFFFE6;
+    font-size: 30px;
+}
+
+.text_deathblade {
+    margin-left: 50px;
+    margin-top: 100px;
+    position: absolute;
+}

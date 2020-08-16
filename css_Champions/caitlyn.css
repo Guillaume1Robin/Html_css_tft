@@ -1,0 +1,39 @@
+.caitlyn {
+    color: #FFFFFFE6;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.img {
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sort {
+    float: left;
+    font-family: sans-serif;
+    color: #88A0A7;
+    background-color: #102531;
+    width: 500px;
+    border: 3px solid #FFFFFFE6;
+    padding: 40px;
+    margin: 20px;
+}
+
+.classe {
+    float: right;
+    font-family: sans-serif;
+    color: #88A0A7;
+    background-color: #102531;
+    width: 500px;
+    border: 3px solid #FFFFFFE6;
+    padding: 40px;
+    margin: 20px;
+}
+
+.color_white {
+    color: #FFFFFFE6;
+}
